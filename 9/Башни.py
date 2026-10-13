@@ -4,8 +4,6 @@ c = int() # Количество
 d = int()
 t = str()
 
-print(b)
-
 b.append(0)
 
 for i in range(len(b) - 1):
